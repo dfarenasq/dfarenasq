@@ -8,7 +8,6 @@ Systems Engineering student at Universidad Santo Tomás (Tunja), building hands-
 - Backend-focused developer with working knowledge of frontend
 - Experience building REST APIs, payment integrations and business automations
 - Interested in Backend Engineering, DevOps and Infrastructure
-- Open to junior, contract, internship and remote opportunities
 
 ## Tech Stack
 
