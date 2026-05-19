@@ -45,11 +45,4 @@ Open to junior, contract, internship and remote opportunities.
 
 ### Currently into
 
-Backend engineering · API design · Microservices · Web application security · DevOps · Linux as a daily driver
-
-### Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.hackclub.dev/api?username=dfarenasq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=stars,issues" />
-  <img width="49%" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=dfarenasq&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&hide=html,css" />
-</div>
+Backend engineering · API design · Microservices · Web application security · DevOps · Linux · Low level learning
