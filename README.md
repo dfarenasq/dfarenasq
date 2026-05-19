@@ -49,7 +49,7 @@ Backend engineering · API design · Microservices · Web application security �
 
 ### Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dfarenasq&show_icons=true&hide_border=true&hide=stars,issues,contribs&count_private=true&theme=transparent&rank_icon=github" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfarenasq&layout=compact&hide_border=true&theme=transparent&langs_count=6&hide=html,css" height="160" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.hackclub.dev/api?username=dfarenasq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=stars,issues" />
+  <img width="49%" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=dfarenasq&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&hide=html,css" />
+</div>
